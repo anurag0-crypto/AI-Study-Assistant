@@ -6,7 +6,7 @@ This application allows users to interact with an LLM (Large Language Model) to 
 
 ---
 
-# 🚀 Features
+#  Features
 
 The app includes 3 AI-powered features:
 
@@ -16,7 +16,7 @@ The app includes 3 AI-powered features:
 
 ---
 
-# ✨ Bonus Features Implemented
+# Bonus Features Implemented
 
 * Chat History
 * Web Interface using Streamlit
@@ -26,7 +26,7 @@ The app includes 3 AI-powered features:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * Python
 * Streamlit
@@ -36,7 +36,7 @@ The app includes 3 AI-powered features:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 GenAI_Project/
