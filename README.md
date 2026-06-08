@@ -92,6 +92,6 @@ GROQ_API_KEY=YOUR_API_KEY_HERE
 streamlit run app.py
 ```
 
-# 👨‍💻 Author
+#  Author
 
 Anurag Kar
