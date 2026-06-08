@@ -1,4 +1,4 @@
-# 🤖 AI Study Assistant
+#  AI Study Assistant
 
 A beginner-friendly Generative AI web application built using Python, Streamlit, and Groq API.
 
